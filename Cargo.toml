@@ -1,0 +1,13 @@
+[package]
+name = "search"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+serde = "0.9"
+serde_json = "0.9"
+serde_derive = "0.9"
+# json = "0.12.4"
+# lmdb-zero = "0.4.4" # database
