@@ -16,4 +16,4 @@ search a indexed dir
 list all indexed dirs 
 `./target/debug/search --list`
 
-all thoughs commands should work but theres also a large posibility that it just doesnt work.
+all those commands should work but theres also a large posibility that it just doesnt work.
